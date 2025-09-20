@@ -6,13 +6,13 @@ public class Exercises {
         int j = 0;
         for (int g = 0; g < 5; g++)
         j++;
-        System.out.println(j);
+        System.out.println(j); //// missing output answer
         //2
         int s = 1;
         for (int p = 3; p >= 0; p--) {
         s = s + p;
         }
-        System.out.println(s);
+        System.out.println(s); //// missing output answer
         //3
         int o = 6;
         int m = 20, i;
@@ -20,11 +20,11 @@ public class Exercises {
         {
         m = m + i * i;
         } 
-        System.out.println(m);
+        System.out.println(m); //// missing output answer
         //4
         //wont say anything cuz it cant find j
         //5
-        //cannot find b
+        //cannot find b //// missing output answer
         //6
         double d = 100.01;
         int b = 0;
