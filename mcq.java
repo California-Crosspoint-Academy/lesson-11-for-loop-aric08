@@ -16,9 +16,9 @@ public class mcq {
         System.out.println("Q5: Endless loop");
 
         // Q6
-        System.out.println("Q6: 6 7");
+        System.out.println("Q6: 6 7"); //// correct answer: A 5,6
 
         // Q7
-        System.out.println("Q7: None of these (3040)");
+        System.out.println("Q7: None of these (3040)"); //// correct answer: E 4039
     }
 }
